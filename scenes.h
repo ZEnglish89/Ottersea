@@ -39,7 +39,7 @@ scene Urchin2{"Outside of the kelp forest, the seafloor has been dominated by pu
 
 scene GoHungry{"It would take a few days for you to starve, but that doesn't make today's\nlackluster catch sting any less, nor does it make your stomach feel any less empty.\nAt least the kelp forest around you is pretty.","Get some Sleep",13};
 
-scene Sleep{"You wrap yourself up in a particularly long strand of kelp anchored to the\nseafloor to keep yourself from drifting, and float at the surface on your back,\nsettling with the movement of the currents. Off to sleepy time you go.","Wake up",14};
+scene Sleeping{"You wrap yourself up in a particularly long strand of kelp anchored to the\nseafloor to keep yourself from drifting, and float at the surface on your back,\nsettling with the movement of the currents. Off to sleepy time you go.","Wake up",14};
 
 scene WakeUp{"You rest well, and wake the next morning still wrapped in the kelp. It's\nanother beautiful day. Unfortunately, the same problems still face you.","See what's Left in the Forest",15,"Go for a Hunt",11};
 
